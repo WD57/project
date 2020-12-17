@@ -1,0 +1,17 @@
+
+        body{
+            background-color: levender;
+        }
+        hr{
+            border-style: dotted none none none;
+            width: 5%;
+            border-width: 5px;
+            border-color: grey;
+        }
+        img{
+            width: 15em; 
+            height: 15em;
+        }
+        h1, h3{
+            color: #9ad3bc;
+        }
